@@ -6,8 +6,16 @@ A basic authentication middleware of [Bucketchain](https://github.com/Bucketchai
 
 ## Installation
 
+### Bower
+
 ```
-bower install purescript-bucketchain-basic-auth
+$ bower install purescript-bucketchain-basic-auth
+```
+
+### Spago
+
+```
+$ spago install bucketchain-basic-auth
 ```
 
 ## Documentation
